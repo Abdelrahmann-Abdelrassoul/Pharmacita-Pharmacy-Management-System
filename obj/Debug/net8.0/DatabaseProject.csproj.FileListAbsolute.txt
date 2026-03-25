@@ -1,0 +1,168 @@
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.RazorAssemblyInfo.cache
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.RazorAssemblyInfo.cs
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\appsettings.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.staticwebassets.runtime.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.deps.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.runtimeconfig.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.dll
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.pdb
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.DatabaseProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DatabaseProject.props
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatabaseProject.props
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatabaseProject.props
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\bundle\DatabaseProject.styles.css
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\projectbundle\DatabaseProject.bundle.scp.css
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.genruntimeconfig.cache
+C:\Users\youss\source\repos\DatabaseProject\DatabaseProject\obj\Debug\net8.0\ref\DatabaseProject.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\appsettings.Development.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\appsettings.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.staticwebassets.runtime.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\DatabaseProject.exe
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Azure.Core.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Azure.Identity.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Humanizer.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.ClientModel.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.CodeDom.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.AssemblyInfo.cs
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.RazorAssemblyInfo.cache
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.RazorAssemblyInfo.cs
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.DatabaseProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DatabaseProject.props
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatabaseProject.props
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatabaseProject.props
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\bundle\DatabaseProject.styles.css
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\scopedcss\projectbundle\DatabaseProject.bundle.scp.css
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\Database.C73F391E.Up2Date
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\refint\DatabaseProject.dll
+D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\obj\Debug\net8.0\DatabaseProject.pdb

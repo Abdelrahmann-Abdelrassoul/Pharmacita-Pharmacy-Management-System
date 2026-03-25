@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DatabaseProject
+build_property.RootNamespace = DatabaseProject
+build_property.ProjectDir = D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Abdelrahman\Gam3a\Term 3\Database\Project\Final phase\Pharmacita\DatabaseProject\DatabaseProject
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/ChooseLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvb3NlTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/CustomerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/DeleteEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/LabTests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFiVGVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/LabTestsHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFiVGVzdHNIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/LabTestsRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFiVGVzdHNSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/OrderHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/SupplierDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Abdelrahman/Gam3a/Term 3/Database/Project/Final phase/Pharmacita/DatabaseProject/DatabaseProject/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fy1aznyo4y
